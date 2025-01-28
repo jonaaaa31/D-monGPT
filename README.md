@@ -3,11 +3,14 @@
 DémonGPT est un assistant basé sur l'intelligence artificielle qui utilise l'API de ChatGPT pour fournir des réponses à vos questions et engager des conversations. Ce bot est conçu pour une utilisation ludique et éducative.
 
 2. Conditions d’Utilisation
-En utilisant DémonGPT, vous acceptez de :
+   
+  En utilisant DémonGPT, vous acceptez de :
 
-Ne pas utiliser le bot pour publier ou demander du contenu illégal, nuisible, offensant, haineux ou inapproprié.
-Respecter les règles et les lignes directrices de Discord ainsi que celles des serveurs où DémonGPT est actif.
-Ne pas abuser du bot en envoyant des requêtes excessives ou malveillantes.
+  Ne pas utiliser le bot pour publier ou demander du contenu illégal, nuisible, offensant, haineux ou inapproprié.
+
+  Respecter les règles et les lignes directrices de Discord ainsi que celles des serveurs où DémonGPT est actif.
+
+  Ne pas abuser du bot en envoyant des requêtes excessives ou malveillantes.
 
 3. Collecte et Utilisation des Données
 DémonGPT peut collecter des messages envoyés pour traiter vos requêtes et y répondre. Aucune donnée personnelle identifiable n’est intentionnellement collectée ni conservée.
