@@ -1,4 +1,7 @@
-# DémonGPT
+# Termes de Service pour DémonGPT
+Dernière mise à jour : 28/01/2025
+
+Bienvenue sur DémonGPT ! En utilisant ce bot, vous acceptez les termes de service suivants. Si vous ne les acceptez pas, veuillez cesser d'utiliser le bot.
 1. Description du Service
 DémonGPT est un assistant basé sur l'intelligence artificielle qui utilise l'API de ChatGPT pour fournir des réponses à vos questions et engager des conversations. Ce bot est conçu pour une utilisation ludique et éducative.
 
