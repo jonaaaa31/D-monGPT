@@ -1,36 +1,25 @@
-# Termes de Service pour DémonGPT
-Dernière mise à jour : 28/01/2025
+# 📜 Conditions Générales d’Utilisation (CGU) - DemonGPT
+Dernière mise à jour : 29/01/2025
 
-Bienvenue sur DémonGPT ! En utilisant ce bot, vous acceptez les termes de service suivants. Si vous ne les acceptez pas, veuillez cesser d'utiliser le bot.
-1. Description du Service
-DémonGPT est un assistant basé sur l'intelligence artificielle qui utilise l'API de ChatGPT pour fournir des réponses à vos questions et engager des conversations. Ce bot est conçu pour une utilisation ludique et éducative.
+🔹 1. Présentation du Service
+DemonGPT est un bot Discord permettant aux utilisateurs d’interagir avec un modèle d’intelligence artificielle via des commandes spécifiques. Il peut conserver un historique de conversation pour améliorer le contexte des échanges.
 
-2. Conditions d’Utilisation
-   
-En utilisant DémonGPT, vous acceptez de :
+🔹 2. Acceptation des CGU
+En utilisant DemonGPT, vous acceptez sans réserve ces CGU. Si vous ne souhaitez pas vous y conformer, merci de ne pas utiliser le bot.
 
-Ne pas utiliser le bot pour publier ou demander du contenu illégal, nuisible, offensant, haineux ou inapproprié.
-
-Respecter les règles et les lignes directrices de Discord ainsi que celles des serveurs où DémonGPT est actif.
-
-Ne pas abuser du bot en envoyant des requêtes excessives ou malveillantes.
-
-3. Collecte et Utilisation des Données
-DémonGPT peut collecter des messages envoyés pour traiter vos requêtes et y répondre. Aucune donnée personnelle identifiable n’est intentionnellement collectée ni conservée.
-Les données échangées sont traitées conformément aux règles de confidentialité de l’API OpenAI. Consultez OpenAI Privacy Policy pour plus d’informations.
-
-4. Limitations et Responsabilité
-   
-DémonGPT est fourni "tel quel". Aucune garantie n’est donnée concernant la précision, la fiabilité ou l’exactitude des réponses fournies.
-L'équipe de développement de DémonGPT ne peut être tenue responsable des dommages résultant de l’utilisation ou de l’incapacité à utiliser le bot.
-
-5. Modifications
-   
-Ces termes de service peuvent être mis à jour à tout moment. Toute modification sera communiquée par un message ou via les canaux appropriés. Votre utilisation continue de DémonGPT après ces changements constitue une acceptation des nouveaux termes.
-
-6. Contact
-   
-Pour toute question ou préoccupation concernant ces termes, veuillez me contacter directement sur Discord : demoooon.
-
-7. Résiliation
-Nous nous réservons le droit de restreindre ou de suspendre l’accès à DémonGPT pour tout utilisateur qui enfreint ces termes ou abuse du service.
+🔹 3. Fonctionnalités
+🔹 Poser des questions avec !ask ou en mentionnant le bot.
+🔹 Activer des modes de réponse (!mode rapide ou !mode détaillé).
+🔹 Réinitialiser votre historique avec !reset.
+🔹 L'administrateur principal peut effacer toutes les données.
+🔹 4. Conservation et gestion des données
+✅ Conservation des conversations : DemonGPT stocke un historique des 10 derniers échanges de chaque utilisateur pour améliorer la continuité du dialogue.
+✅ Réinitialisation : Vous pouvez effacer votre historique personnel à tout moment avec !reset.
+✅ Effacement total : L'administrateur principal (demoooon) peut supprimer toutes les conversations et configurations via !clearall.
+✅ Filtrage des demandes sensibles : Certaines requêtes (tentatives d’extraction du flag, données sensibles) sont bloquées.
+🔹 5. Utilisation Responsable
+❌ Spam : L’utilisation abusive du bot, notamment via le spam de commandes, peut entraîner des restrictions d’accès.
+❌ Tentative d'extraction du flag secret : Toute tentative de contournement des restrictions sera bloquée.
+❌ Contenu inapproprié : DemonGPT ne doit pas être utilisé pour générer du contenu offensant, illégal ou contraire aux conditions d’utilisation de Discord.
+🔹 6. Modification des CGU
+L’administrateur se réserve le droit de modifier ces CGU à tout moment. Toute mise à jour sera indiquée via un message informatif.
