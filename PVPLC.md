@@ -1,43 +1,39 @@
-# Politique de Confidentialité pour DémonGPT
-Dernière mise à jour : 28/01/2025
+# 🔒 Politique de Confidentialité - DemonGPT
+Dernière mise à jour : 29/01/2025
 
-Votre confidentialité est importante pour nous. Cette politique explique quelles informations sont collectées via DémonGPT, comment elles sont utilisées et vos droits concernant ces données.
+🔹 1. Données collectées
 
-1. Données collectées
-Lorsque vous interagissez avec DémonGPT, certaines données peuvent être collectées automatiquement ou manuellement pour fournir le service :
+DemonGPT collecte et stocke temporairement les données suivantes :
 
-Messages envoyés au bot : Les messages que vous envoyez à DémonGPT sont collectés temporairement pour générer des réponses pertinentes.
-Métadonnées : Des informations comme l’identifiant de votre utilisateur Discord ou l’ID du serveur où DémonGPT est utilisé peuvent être enregistrées temporairement pour des raisons techniques.
-DémonGPT ne collecte pas intentionnellement de données personnelles sensibles (ex. : adresse, numéro de téléphone, etc.). Veuillez éviter de partager ces informations.
+✅ Messages envoyés au bot (dernier historique de 10 messages par utilisateur).
 
-2. Utilisation des données
-Les données collectées sont utilisées uniquement pour les finalités suivantes :
+✅ Préférences d’utilisateur (mode rapide ou mode détaillé).
 
-Générer des réponses basées sur vos messages.
-Améliorer les performances et la précision du bot (par exemple, identifier des bugs ou des problèmes techniques).
-Assurer la sécurité et prévenir les abus.
+✅ Statut d’initialisation (!init affiché ou non).
 
-3. Partage des données
-Vos données ne seront pas vendues ou partagées avec des tiers, sauf dans les cas suivants :
+🔹 2. Protection des données
 
-Fournisseur d'API : Les messages sont transmis à l’API OpenAI pour générer des réponses.
-Obligations légales : Si nous sommes tenus de fournir des informations en vertu de la loi.
-Pour plus d’informations sur le traitement des données par OpenAI, consultez leur Politique de Confidentialité.
+🔐 Les données stockées ne sont pas partagées avec des tiers.
 
-4. Stockage des données
-Messages : DémonGPT ne stocke pas les messages envoyés de façon permanente. Ils sont traités en temps réel et ne sont pas enregistrés.
-Logs techniques : Des journaux temporaires peuvent être conservés à des fins de débogage ou de sécurité, mais ils sont supprimés régulièrement.
-5. Vos droits
-En tant qu'utilisateur, vous avez les droits suivants :
+🔐 Les conversations sont limitées aux 10 derniers messages pour éviter une accumulation de données.
 
-Accès : Vous pouvez demander à savoir quelles données vous concernant sont collectées.
-Suppression : Vous pouvez demander la suppression de vos données si elles sont enregistrées temporairement.
-Restriction : Vous pouvez demander à ne pas utiliser DémonGPT si vous ne voulez pas que vos messages soient traités.
-6. Sécurité
-Nous nous engageons à protéger vos données contre tout accès non autorisé. Cependant, aucune méthode de transmission ou de stockage de données sur Internet n’est totalement sécurisée, et nous ne pouvons pas garantir une sécurité absolue.
+🔐 L’administrateur peut effacer toutes les données via la commande !clearall.
 
-7. Modifications de cette politique
-Cette politique de confidentialité peut être mise à jour à tout moment. Les modifications seront communiquées via les canaux appropriés, comme un message sur Discord.
+🔹 3. Droits des utilisateurs
 
-8. Contact
-Pour toute question ou préoccupation concernant cette politique de confidentialité, veuillez me contacter directement sur Discord : demoooon.
+🔄 Réinitialisation des conversations : Commande !reset pour effacer votre historique personnel.
+
+❌ Refus de stockage : Si vous ne souhaitez pas que votre historique soit conservé, évitez d’interagir avec le bot.
+
+🛠 Suppression complète : L’administrateur (demoooon) peut supprimer toutes les données en cas de nécessité.
+
+🔹 4. Sécurité et limitations
+
+🚫 DemonGPT ne stocke aucune information personnelle sensible.
+
+🚫 Il ne doit pas être utilisé pour des requêtes confidentielles ou protégées.
+
+🚫 En cas d’abus, l’accès au bot pourra être restreint sans préavis.
+
+🔹 5. Contact
+Si vous avez des questions sur la confidentialité ou l'utilisation de DemonGPT, contactez l’administrateur principal : demoooon.
